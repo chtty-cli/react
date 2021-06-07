@@ -7,3 +7,4 @@
 # 2021-06-07
 
 - 更新 .prettierrc.js 配置文件名
+- 更新eslint 的env 环境名
